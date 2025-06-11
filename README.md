@@ -8,21 +8,11 @@ A Naruto-themed mod for Balatro featuring iconic ninja characters as powerful jo
 
 ### Ninja Jokers
 
-- **🧡 Naruto Uzumaki** (Common)
-  - Gives +9 Mult for each 9 in your deck
-  - *"Believe it!"*
-
-- **⚡ Sasuke Uchiha** (Uncommon) 
-  - Spades and Clubs gain +10 Chips when scored
-  - *"I'll restore my clan's honor"*
-
-- **👁️ Kakashi Hatake** (Rare)
-  - Playing a Flush creates a Death Tarot card
-  - *"Copy Ninja activated!"*
+- Added 3 Shinobi Jokers (Naruto,Sasuke and Kakashi)
 
 ## 📦 Installation
 
-1. Make sure you have [Steamodded] and [Lovely] installed.
+1. Make sure you have [Steamodded](https://github.com/Steamopollys/Steamodded) and [Lovely](https://github.com/ethangreen-dev/lovely-injector) installed.
 2. Download the latest release from the [Releases page](../../releases)
 3. Extract the mod folder to your Balatro mods directory:
    - **Windows**: `%APPDATA%/Balatro/Mods/`
@@ -34,16 +24,15 @@ A Naruto-themed mod for Balatro featuring iconic ninja characters as powerful jo
 
 - [Steamodded](https://github.com/Steamopollys/Steamodded) >= 1.0.0~BETA
 - [Lovely](https://github.com/ethangreen-dev/lovely-injector) (latest version recommended)
-
 - Balatro (latest version recommended)
 
 ## 🚀 Planned Features
 
 - [ ] More ninja characters (Sakura, Shikamaru, etc.)
-- [ ] Special hand types (Rasengan, Chidori)
-- [ ] Chakra system integration
+- [ ] New Booster Packs and Consumables
+- [ ] New Decks
+- [ ] Some Challenges
 - [ ] Sound effects
-- [ ] Animated card sprites
 
 ## 🤝 Contributing
 
